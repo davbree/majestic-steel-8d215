@@ -1,3 +1,33 @@
 {
-    "type": "Config"
+    "type": "Config",
+    "header": {
+        "headerVariant": "variant-a",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-a",
+        "backgroundWidth": "full",
+        "title": "lorem-ipsum",
+        "isTitleVisible": false,
+        "logo": {
+            "altText": "lorem-ipsum",
+            "caption": "lorem-ipsum",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock"
+        },
+        "primaryLinks": [],
+        "secondaryLinks": [],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-5",
+                    "pb-5"
+                ]
+            }
+        }
+    }
 }
