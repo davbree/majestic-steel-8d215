@@ -1,0 +1,34 @@
+{
+    "model": "FeaturedPostsSection",
+    "presets": [{
+            "label": "3 columns, light",
+            "thumbnail": "images/featured-posts-3-col-light.jpg",
+            "data": {
+                "title": "Latest posts",
+                 "subtitle": "",
+                "variant": "variant-a",
+                "colors": "colors-a"
+            }
+        },
+        {
+            "label": "List, light",
+            "thumbnail": "images/featured-posts-light.jpg",
+            "data": {
+                "title": "Latest posts",
+                "subtitle": "",
+                "variant": "variant-c",
+                "colors": "colors-a"
+            }
+        },
+        {
+            "label": "2 columns, dark",
+            "thumbnail": "images/featured-posts-dark.jpg",
+            "data": {
+                "title": "Latest posts",
+                "subtitle": "",
+                "variant": "variant-b",
+                "colors": "colors-c"
+            }
+        }
+    ]
+}
