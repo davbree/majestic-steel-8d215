@@ -14,7 +14,7 @@ sections:
           opacity: 100
       type: ImageBlock
     title: We do fishing differently.
-    subtitle: Fresh. Better. Faster
+    subtitle: Fresh. Better. Faster.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
@@ -101,7 +101,9 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
       actions:
         justifyContent: center
     type: FeaturedPostsSection
