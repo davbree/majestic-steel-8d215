@@ -83,6 +83,53 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPeopleSection
+  - elementId: ''
+    variant: variant-a
+    colors: colors-a
+    backgroundWidth: full
+    title: Latest posts
+    subtitle: ''
+    actions:
+      - type: Button
+        label: View all
+        url: /
+        style: primary
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-2
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+      actions:
+        justifyContent: center
+        margin:
+          - mt-12
+          - mb-0
+    type: FeaturedPostsSection
 layout: PageLayout
 _slug: pleasant-oak-257
 ---
