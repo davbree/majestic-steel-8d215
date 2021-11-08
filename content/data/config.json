@@ -25,7 +25,7 @@
                 "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "link",
+                "style": "primary",
                 "elementId": "",
                 "type": "Button",
                 "url": "/hey"
