@@ -4,7 +4,7 @@
         "headerVariant": "variant-b",
         "primaryColors": "colors-a",
         "secondaryColors": "colors-a",
-        "backgroundWidth": "full",
+        "backgroundWidth": "inset",
         "title": "lorem-ipsum",
         "isTitleVisible": true,
         "logo": {
