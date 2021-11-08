@@ -2,7 +2,7 @@
 title: This is a new page
 sections:
   - type: HeroSection
-    title: All about the art of selling fish
+    title: Dsa
     subtitle: Fresh. Better. Faster
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
