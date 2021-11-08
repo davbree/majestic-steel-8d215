@@ -22,7 +22,6 @@
             {
                 "label": "Learn more",
                 "altText": "Learn more",
-                "url": "/",
                 "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
