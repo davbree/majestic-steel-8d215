@@ -47,6 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundWidth: inset
 layout: PageLayout
 _slug: pleasant-oak-257
 ---
