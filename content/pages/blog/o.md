@@ -11,6 +11,7 @@ featuredImage:
 bottomSections: []
 layout: PostLayout
 _slug: good-potato-113
+author: content/data/team/person-21gqio6rm.json
 ---
 ## Lorem ipsum
 
