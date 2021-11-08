@@ -25,4 +25,4 @@ contentModels:
     newFilePath: 'team/{slug}.json'
 models:
   moo:
-    type: page
+    type: page2
