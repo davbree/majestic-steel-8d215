@@ -2,48 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - elementId: ''
-    variant: variant-b
-    colors: colors-a
-    backgroundWidth: full
-    title: Services & Experiences
-    subtitle: 'Like we said, it''s more than just fishing'
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
-    styles:
-      self:
-        height: screen
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mt-0
-          - mb-12
-      actions:
-        justifyContent: center
-    type: FeaturedPostsSection
   - elementId: contact-form
     colors: colors-f
     backgroundWidth: full
